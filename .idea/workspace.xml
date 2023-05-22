@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="f36b02b8-3eb7-4bb4-9688-91e4e4929e37" name="Changes" comment="" />
+=======
+    <list default="true" id="f2d908fe-6fda-403d-9dc6-550563a6828e" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +17,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="2Q7CZ1R9kyOx0sPTu65x5OqD43e" />
+=======
+  <component name="ProjectId" id="2Q6Yhr2sTYGYezPNdMLKYAvKQrS" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,18 +29,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+<<<<<<< Updated upstream
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/Веселин/PycharmProjects/pythonProject/fundamental"
+=======
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+>>>>>>> Stashed changes
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="f36b02b8-3eb7-4bb4-9688-91e4e4929e37" name="Changes" comment="" />
       <created>1684695286036</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684695286036</updated>
+=======
+      <changelist id="f2d908fe-6fda-403d-9dc6-550563a6828e" name="Changes" comment="" />
+      <created>1684675619576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684675619576</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
